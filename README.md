@@ -9,3 +9,6 @@ Untuk mengisi kehadiran dalam semua kelas dalam elearning madrasah anda tanpa me
            password='PASSWD01'
 -. Langkah diatas hanya dilakukan 1 kali.
 3. run program diatas.  
+
+# Pesan
+Semoga bermanfaat!
