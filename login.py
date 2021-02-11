@@ -61,7 +61,7 @@ def banner():
 
 def main():
     if((base_url=='http://your.school.sch.id') or (username=='username')):
-        error("Please set up to your actual data (read 'Readme.md' file)")
+        error("Please set up to your actual data (read 'README.md' file)")
 
     banner()
     if(getCookie(username,password)==1):
