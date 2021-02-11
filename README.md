@@ -1,2 +1,2 @@
-# Iseng
-Ide yang datangnya tidak sengaja, tertuang dalam bentuk kode program sebagai pelampiasan hasrat seni dengan nilai yang tinggi
+# Auto-login
+Untuk login kedalam semua kelas dalam elearning madrasah anda tanpa membuka browser (Chrome, Safari, Firefox, dll.).
