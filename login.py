@@ -6,8 +6,8 @@ from sys import argv
 #config start
 
 base_url='http://your.school.sch.id'
-username='username'
-password='password'
+credUsername='username'
+credPassword='password'
 
 #config end
 
@@ -60,11 +60,11 @@ def banner():
     """)
 
 def main():
-    if((base_url=='http://your.school.sch.id') or (username=='username')):
+    if((base_url=='http://your.school.sch.id') or (credUsername=='username')):
         error("Please set up to your actual data (read 'README.md' file)")
 
     banner()
-    if(getCookie(username,password)==1):
+    if(getCookie(credUsername,credPassword)==1):
         error("Login gagal")
 
     getAllClass()
