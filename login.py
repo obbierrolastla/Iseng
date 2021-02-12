@@ -1,3 +1,7 @@
+#   DESKRIPSI
+#  Untuk mengisi kehadiran kedalam semua kelas elearning anda secara 'otomatis'.
+
+
 from requests import *
 from bs4 import BeautifulSoup as bs
 from sys import argv
