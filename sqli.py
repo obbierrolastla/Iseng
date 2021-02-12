@@ -1,3 +1,11 @@
+#   DESKRIPSI
+#  SQL injection vulnerability telah ditemukan di website elearning madrasah. Dibuatnya kode program ini ditujukan agar mengidentifikasi kelemahan tersebut pada website anda.
+#   DISCLAIMER
+#  Kejadian tidak mengenakkan apapun tidak penulislah yang bertanggung jawab
+#   PENGGUNAAN
+#  'python sqli.py <url_website_anda>' 
+
+
 from requests import post
 from time import time,sleep
 from sys import argv
